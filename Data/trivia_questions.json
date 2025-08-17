@@ -1,0 +1,1122 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "answer": "New Delhi"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What gas do plants breathe in?",
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "answer": "Lion"
+  },
+  {
+    "question": "What is H2O commonly known as?",
+    "answer": "Water"
+  },
+  {
+    "question": "How many continents are there?",
+    "answer": "Seven"
+  },
+  {
+    "question": "Which organ pumps blood?",
+    "answer": "Heart"
+  },
+  {
+    "question": "What do bees make?",
+    "answer": "Honey"
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "answer": "Eight"
+  },
+  {
+    "question": "Which month has 28 or 29 days?",
+    "answer": "February"
+  },
+  {
+    "question": "What is the color of the sky on a clear day?",
+    "answer": "Blue"
+  },
+  {
+    "question": "What is 2 + 2?",
+    "answer": "4"
+  },
+  {
+    "question": "Which fruit is yellow and curved?",
+    "answer": "Banana"
+  },
+  {
+    "question": "What do cows drink?",
+    "answer": "Water"
+  },
+  {
+    "question": "What color are bananas?",
+    "answer": "Yellow"
+  },
+  {
+    "question": "Which bird cannot fly?",
+    "answer": "Ostrich"
+  },
+  {
+    "question": "Which day comes after Friday?",
+    "answer": "Saturday"
+  },
+  {
+    "question": "Which season is the coldest?",
+    "answer": "Winter"
+  },
+  {
+    "question": "What do you use to write on a blackboard?",
+    "answer": "Chalk"
+  },
+  {
+    "question": "What is the largest mammal?",
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "What color is the sun?",
+    "answer": "Yellow"
+  },
+  {
+    "question": "What comes after Monday?",
+    "answer": "Tuesday"
+  },
+  {
+    "question": "What is the opposite of cold?",
+    "answer": "Hot"
+  },
+  {
+    "question": "Which animal barks?",
+    "answer": "Dog"
+  },
+  {
+    "question": "Which animal purrs?",
+    "answer": "Cat"
+  },
+  {
+    "question": "What is the primary ingredient in bread?",
+    "answer": "Flour"
+  },
+  {
+    "question": "What shape has three sides?",
+    "answer": "Triangle"
+  },
+  {
+    "question": "What shape has four equal sides?",
+    "answer": "Square"
+  },
+  {
+    "question": "What planet do we live on?",
+    "answer": "Earth"
+  },
+  {
+    "question": "What color is grass?",
+    "answer": "Green"
+  },
+  {
+    "question": "Which fruit is red and has seeds on the outside?",
+    "answer": "Strawberry"
+  },
+  {
+    "question": "What is the name of our galaxy?",
+    "answer": "Milky Way"
+  },
+  {
+    "question": "How many wheels does a bicycle have?",
+    "answer": "Two"
+  },
+  {
+    "question": "How many hours are in a day?",
+    "answer": "24"
+  },
+  {
+    "question": "How many days are in a week?",
+    "answer": "7"
+  },
+  {
+    "question": "What do you call a baby dog?",
+    "answer": "Puppy"
+  },
+  {
+    "question": "What do you call a baby cat?",
+    "answer": "Kitten"
+  },
+  {
+    "question": "What is ice made of?",
+    "answer": "Water"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "question": "What do we breathe in?",
+    "answer": "Oxygen"
+  },
+  {
+    "question": "What color is coal?",
+    "answer": "Black"
+  },
+  {
+    "question": "What color are clouds?",
+    "answer": "White"
+  },
+  {
+    "question": "What organ helps us see?",
+    "answer": "Eye"
+  },
+  {
+    "question": "What organ helps us smell?",
+    "answer": "Nose"
+  },
+  {
+    "question": "What organ helps us hear?",
+    "answer": "Ear"
+  },
+  {
+    "question": "What is the opposite of night?",
+    "answer": "Day"
+  },
+  {
+    "question": "What is the opposite of up?",
+    "answer": "Down"
+  },
+  {
+    "question": "What is the opposite of left?",
+    "answer": "Right"
+  },
+  {
+    "question": "Which animal has a long trunk?",
+    "answer": "Elephant"
+  },
+  {
+    "question": "Which animal has a long neck?",
+    "answer": "Giraffe"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "answer": "Pacific"
+  },
+  {
+    "question": "What language is primarily spoken in Brazil?",
+    "answer": "Portuguese"
+  },
+  {
+    "question": "What is the tallest mountain in the world?",
+    "answer": "Everest"
+  },
+  {
+    "question": "Which continent is the Sahara Desert located in?",
+    "answer": "Africa"
+  },
+  {
+    "question": "What is the freezing point of water in Celsius?",
+    "answer": "0"
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "answer": "Yen"
+  },
+  {
+    "question": "What do you call molten rock after a volcano erupts?",
+    "answer": "Lava"
+  },
+  {
+    "question": "Which planet has rings?",
+    "answer": "Saturn"
+  },
+  {
+    "question": "What is the hardest natural substance?",
+    "answer": "Diamond"
+  },
+  {
+    "question": "Who invented the lightbulb?",
+    "answer": "Edison"
+  },
+  {
+    "question": "What is the smallest planet in our solar system?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "question": "What gas do humans breathe out?",
+    "answer": "CarbonDioxide"
+  },
+  {
+    "question": "What country is known for pizza?",
+    "answer": "Italy"
+  },
+  {
+    "question": "What is the largest land animal?",
+    "answer": "Elephant"
+  },
+  {
+    "question": "Which organ helps with digestion and produces insulin?",
+    "answer": "Pancreas"
+  },
+  {
+    "question": "What instrument has 88 keys?",
+    "answer": "Piano"
+  },
+  {
+    "question": "What is the name of the fairy in Peter Pan?",
+    "answer": "Tinkerbell"
+  },
+  {
+    "question": "What color is a ripe tomato?",
+    "answer": "Red"
+  },
+  {
+    "question": "How many bones are in the human body?",
+    "answer": "206"
+  },
+  {
+    "question": "Which animal is known for jumping and has long ears?",
+    "answer": "Rabbit"
+  },
+  {
+    "question": "Which planet is known for its Great Red Spot?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the main ingredient in sushi?",
+    "answer": "Rice"
+  },
+  {
+    "question": "What do you call a shape with eight sides?",
+    "answer": "Octagon"
+  },
+  {
+    "question": "What is the name of Harry Potter's pet owl?",
+    "answer": "Hedwig"
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answer": "Japan"
+  },
+  {
+    "question": "What type of animal is a Komodo dragon?",
+    "answer": "Lizard"
+  },
+  {
+    "question": "What do camels store in their humps?",
+    "answer": "Fat"
+  },
+  {
+    "question": "What is the term for an animal that eats only plants?",
+    "answer": "Herbivore"
+  },
+  {
+    "question": "What is the closest star to Earth?",
+    "answer": "Sun"
+  },
+  {
+    "question": "How many legs does a crab have?",
+    "answer": "Ten"
+  },
+  {
+    "question": "Which insect has colorful wings and begins as a caterpillar?",
+    "answer": "Butterfly"
+  },
+  {
+    "question": "Which planet is blue and has strong winds?",
+    "answer": "Neptune"
+  },
+  {
+    "question": "What is the main language spoken in Canada?",
+    "answer": "English"
+  },
+  {
+    "question": "What is the name of the largest rainforest?",
+    "answer": "Amazon"
+  },
+  {
+    "question": "What do you call a baby horse?",
+    "answer": "Foal"
+  },
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "answer": "100"
+  },
+  {
+    "question": "What do penguins use to swim?",
+    "answer": "Flippers"
+  },
+  {
+    "question": "Which animal is black and white and eats bamboo?",
+    "answer": "Panda"
+  },
+  {
+    "question": "What is the fastest land animal?",
+    "answer": "Cheetah"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "answer": "Brasília"
+  },
+  {
+    "question": "Which planet is known as the Gas Giant?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the smallest continent?",
+    "answer": "Australia"
+  },
+  {
+    "question": "Which animal is known for its stripes?",
+    "answer": "Zebra"
+  },
+  {
+    "question": "What is the primary color of a stop sign?",
+    "answer": "Red"
+  },
+  {
+    "question": "How many sides does a hexagon have?",
+    "answer": "Six"
+  },
+  {
+    "question": "What is the main ingredient in chocolate?",
+    "answer": "Cocoa"
+  },
+  {
+    "question": "Which country is famous for the Eiffel Tower?",
+    "answer": "France"
+  },
+  {
+    "question": "What do you call a baby goat?",
+    "answer": "Kid"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answer": "Berlin"
+  },
+  {
+    "question": "Which country is known as the Emerald Isle?",
+    "answer": "Ireland"
+  },
+  {
+    "question": "What is the largest desert in the world?",
+    "answer": "Antarctic Desert"
+  },
+  {
+    "question": "Which river flows through London?",
+    "answer": "Thames"
+  },
+  {
+    "question": "What is the smallest country in the world?",
+    "answer": "Vatican City"
+  },
+  {
+    "question": "What is the atomic number of oxygen?",
+    "answer": "8"
+  },
+  {
+    "question": "What is the formula for carbon dioxide?",
+    "answer": "CO2"
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "answer": "Saturn"
+  },
+  {
+    "question": "What is the process of turning a liquid into a gas called?",
+    "answer": "Evaporation"
+  },
+  {
+    "question": "What is the tallest tree in the world?",
+    "answer": "Coast Redwood"
+  },
+  {
+    "question": "Which flower is known as the national flower of Japan?",
+    "answer": "Cherry Blossom"
+  },
+  {
+    "question": "Which animal is known for its ability to camouflage?",
+    "answer": "Chameleon"
+  },
+  {
+    "question": "What is the primary diet of a koala?",
+    "answer": "Eucalyptus"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which country is known for the Great Wall?",
+    "answer": "China"
+  },
+  {
+    "question": "What is the largest fish in the ocean?",
+    "answer": "Whale Shark"
+  },
+  {
+    "question": "What do you call a shape with five sides?",
+    "answer": "Pentagon"
+  },
+  {
+    "question": "What is the currency of the United States?",
+    "answer": "Dollar"
+  },
+  {
+    "question": "Which bird is known for its colorful feathers and ability to mimic sounds?",
+    "answer": "Parrot"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "answer": "Moscow"
+  },
+  {
+    "question": "Which planet is known for its blue color?",
+    "answer": "Neptune"
+  },
+  {
+    "question": "What is the main ingredient in guacamole?",
+    "answer": "Avocado"
+  },
+  {
+    "question": "What is the longest river in the world?",
+    "answer": "Nile"
+  },
+  {
+    "question": "Which animal is known as the ship of the desert?",
+    "answer": "Camel"
+  },
+  {
+    "question": "What is the capital of Spain?",
+    "answer": "Madrid"
+  },
+  {
+    "question": "What is the primary source of energy for Earth's climate system?",
+    "answer": "Sun"
+  },
+  {
+    "question": "Which fruit is known as the king of fruits?",
+    "answer": "Mango"
+  },
+  {
+    "question": "What is the capital of Canada?",
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which animal is known for its black and white stripes and lives in water?",
+    "answer": "Zebra Fish"
+  },
+  {
+    "question": "What is the freezing point of water in Fahrenheit?",
+    "answer": "32"
+  },
+  {
+    "question": "Which continent is known as the Dark Continent?",
+    "answer": "Africa"
+  },
+  {
+    "question": "What do you call a baby kangaroo?",
+    "answer": "Joey"
+  },
+  {
+    "question": "What is the capital of Egypt?",
+    "answer": "Cairo"
+  },
+  {
+    "question": "Which gas is used in balloons to make them float?",
+    "answer": "Helium"
+  },
+  {
+    "question": "What is the tallest building in the world as of 2025?",
+    "answer": "Burj Khalifa"
+  },
+  {
+    "question": "Which animal is known for its long lifespan and hard shell?",
+    "answer": "Tortoise"
+  },
+  {
+    "question": "What is the main ingredient in pasta?",
+    "answer": "Wheat"
+  },
+  {
+    "question": "Which country is known for the Taj Mahal?",
+    "answer": "India"
+  },
+  {
+    "question": "What is the capital of South Africa?",
+    "answer": "Pretoria"
+  },
+  {
+    "question": "Which planet is known as Earth's twin?",
+    "answer": "Venus"
+  },
+  {
+    "question": "What do you call a shape with seven sides?",
+    "answer": "Heptagon"
+  },
+  {
+    "question": "What is the currency of the United Kingdom?",
+    "answer": "Pound"
+  },
+  {
+    "question": "Which animal is known for its pouch?",
+    "answer": "Kangaroo"
+  },
+  {
+    "question": "What is the capital of Mexico?",
+    "answer": "Mexico City"
+  },
+  {
+    "question": "Which gas is essential for combustion?",
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which fruit is green and often used in salads?",
+    "answer": "Cucumber"
+  },
+  {
+    "question": "What is the largest country by land area?",
+    "answer": "Russia"
+  },
+  {
+    "question": "Which animal is known for its black and white feathers and waddling walk?",
+    "answer": "Penguin"
+  },
+  {
+    "question": "What is the capital of Italy?",
+    "answer": "Rome"
+  },
+  {
+    "question": "Which element is known as the building block of life?",
+    "answer": "Carbon"
+  },
+  {
+    "question": "What do you call a baby sheep?",
+    "answer": "Lamb"
+  },
+  {
+    "question": "Which country is known for its pyramids?",
+    "answer": "Egypt"
+  },
+  {
+    "question": "What is the capital of China?",
+    "answer": "Beijing"
+  },
+  {
+    "question": "Which animal is known for its spots and speed?",
+    "answer": "Leopard"
+  },
+  {
+    "question": "What is the boiling point of water in Fahrenheit?",
+    "answer": "212"
+  },
+  {
+    "question": "Which continent is known for its vast rainforests?",
+    "answer": "South America"
+  },
+  {
+    "question": "What do you call a group of fish?",
+    "answer": "School"
+  },
+  {
+    "question": "What is the capital of Argentina?",
+    "answer": "Buenos Aires"
+  },
+  {
+    "question": "Which planet is known for its tilted axis?",
+    "answer": "Uranus"
+  },
+  {
+    "question": "What is the main ingredient in hummus?",
+    "answer": "Chickpeas"
+  },
+  {
+    "question": "Which river flows through Paris?",
+    "answer": "Seine"
+  },
+  {
+    "question": "Which animal is known for its horn?",
+    "answer": "Rhinoceros"
+  },
+  {
+    "question": "What is the capital of South Korea?",
+    "answer": "Seoul"
+  },
+  {
+    "question": "Which gas is used in neon lights?",
+    "answer": "Neon"
+  },
+  {
+    "question": "Which fruit is orange and named after a color?",
+    "answer": "Orange"
+  },
+  {
+    "question": "What is the largest island in the world?",
+    "answer": "Greenland"
+  },
+  {
+    "question": "Which animal is known for its humps?",
+    "answer": "Bactrian Camel"
+  },
+  {
+    "question": "What is the capital of Thailand?",
+    "answer": "Bangkok"
+  },
+  {
+    "question": "Which element is used in pencils?",
+    "answer": "Graphite"
+  },
+  {
+    "question": "What do you call a baby cow?",
+    "answer": "Calf"
+  },
+  {
+    "question": "Which country is known for the Statue of Liberty?",
+    "answer": "United States"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "answer": "Abuja"
+  },
+  {
+    "question": "Which animal is known for its long tongue and sticky saliva?",
+    "answer": "Anteater"
+  },
+  {
+    "question": "What is the speed of light in kilometers per second?",
+    "answer": "300000"
+  },
+  {
+    "question": "Which continent is known for its kangaroos?",
+    "answer": "Australia"
+  },
+  {
+    "question": "What do you call a group of wolves?",
+    "answer": "Pack"
+  },
+  {
+    "question": "What is the capital of Turkey?",
+    "answer": "Ankara"
+  },
+  {
+    "question": "Which planet is the farthest from the Sun?",
+    "answer": "Neptune"
+  },
+  {
+    "question": "What is the main ingredient in ketchup?",
+    "answer": "Tomatoes"
+  },
+  {
+    "question": "Which river is the longest in South America?",
+    "answer": "Amazon"
+  },
+  {
+    "question": "Which animal is known for its shell and slow movement?",
+    "answer": "Turtle"
+  },
+  {
+    "question": "What is the capital of Sweden?",
+    "answer": "Stockholm"
+  },
+  {
+    "question": "Which gas is known as laughing gas?",
+    "answer": "Nitrous Oxide"
+  },
+  {
+    "question": "Which fruit is known for its spiky skin?",
+    "answer": "Pineapple"
+  },
+  {
+    "question": "What is the smallest ocean in the world?",
+    "answer": "Arctic"
+  },
+  {
+    "question": "Which animal is known for its quills?",
+    "answer": "Porcupine"
+  },
+  {
+    "question": "What is the capital of Norway?",
+    "answer": "Oslo"
+  },
+  {
+    "question": "Which element is used in batteries?",
+    "answer": "Lithium"
+  },
+  {
+    "question": "What do you call a baby pig?",
+    "answer": "Piglet"
+  },
+  {
+    "question": "Which country is known for the Colosseum?",
+    "answer": "Italy"
+  },
+  {
+    "question": "What is the capital of Peru?",
+    "answer": "Lima"
+  },
+  {
+    "question": "Which animal is known for its large antlers?",
+    "answer": "Moose"
+  },
+  {
+    "question": "What is the atomic number of hydrogen?",
+    "answer": "1"
+  },
+  {
+    "question": "Which continent is known for its savannas?",
+    "answer": "Africa"
+  },
+  {
+    "question": "What do you call a group of birds?",
+    "answer": "Flock"
+  },
+  {
+    "question": "What is the capital of Chile?",
+    "answer": "Santiago"
+  },
+  {
+    "question": "Which planet is known for its bright rings?",
+    "answer": "Saturn"
+  },
+  {
+    "question": "What is the main ingredient in pesto sauce?",
+    "answer": "Basil"
+  },
+  {
+    "question": "Which river flows through Cairo?",
+    "answer": "Nile"
+  },
+  {
+    "question": "Which animal is known for its mane?",
+    "answer": "Lion"
+  },
+  {
+    "question": "What is the capital of Indonesia?",
+    "answer": "Jakarta"
+  },
+  {
+    "question": "Which gas is used in fire extinguishers?",
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Which fruit is known for its fuzzy skin?",
+    "answer": "Peach"
+  },
+  {
+    "question": "What is the largest lake in the world?",
+    "answer": "Caspian Sea"
+  },
+  {
+    "question": "Which animal is known for its tusks?",
+    "answer": "Walrus"
+  },
+  {
+    "question": "What is the capital of New Zealand?",
+    "answer": "Wellington"
+  },
+  {
+    "question": "Which element is known as the king of metals?",
+    "answer": "Gold"
+  },
+  {
+    "question": "What do you call a baby deer?",
+    "answer": "Fawn"
+  },
+  {
+    "question": "Which country is known for the Leaning Tower of Pisa?",
+    "answer": "Italy"
+  },
+  {
+    "question": "What is the capital of Saudi Arabia?",
+    "answer": "Riyadh"
+  },
+  {
+    "question": "Which animal is known for its long tail and swinging?",
+    "answer": "Monkey"
+  },
+  {
+    "question": "What is the atomic number of carbon?",
+    "answer": "6"
+  },
+  {
+    "question": "Which continent is known for its penguins?",
+    "answer": "Antarctica"
+  },
+  {
+    "question": "What do you call a group of lions?",
+    "answer": "Pride"
+  },
+  {
+    "question": "What is the capital of Malaysia?",
+    "answer": "Kuala Lumpur"
+  },
+  {
+    "question": "Which planet is known as the Morning Star?",
+    "answer": "Venus"
+  },
+  {
+    "question": "What is the main ingredient in soy sauce?",
+    "answer": "Soybeans"
+  },
+  {
+    "question": "Which river flows through Rome?",
+    "answer": "Tiber"
+  },
+  {
+    "question": "Which animal is known for its stripes and lives in Asia?",
+    "answer": "Tiger"
+  },
+  {
+    "question": "What is the capital of Philippines?",
+    "answer": "Manila"
+  },
+  {
+    "question": "Which gas is used in welding?",
+    "answer": "Acetylene"
+  },
+  {
+    "question": "Which fruit is known for its seeds and red color?",
+    "answer": "Pomegranate"
+  },
+  {
+    "question": "What is the largest volcano in the world?",
+    "answer": "Mauna Loa"
+  },
+  {
+    "question": "Which animal is known for its long legs and runs fast?",
+    "answer": "Ostrich"
+  },
+  {
+    "question": "What is the capital of Vietnam?",
+    "answer": "Hanoi"
+  },
+  {
+    "question": "Which element is used in thermometers?",
+    "answer": "Mercury"
+  },
+  {
+    "question": "What do you call a baby bear?",
+    "answer": "Cub"
+  },
+  {
+    "question": "Which country is known for Machu Picchu?",
+    "answer": "Peru"
+  },
+  {
+    "question": "What is the capital of Colombia?",
+    "answer": "Bogotá"
+  },
+  {
+    "question": "Which animal is known for its sharp claws and lives in the Arctic?",
+    "answer": "Polar Bear"
+  },
+  {
+    "question": "What is the atomic number of nitrogen?",
+    "answer": "7"
+  },
+  {
+    "question": "Which continent is known for its polar bears?",
+    "answer": "North America"
+  },
+  {
+    "question": "What do you call a group of elephants?",
+    "answer": "Herd"
+  },
+  {
+    "question": "What is the capital of Greece?",
+    "answer": "Athens"
+  },
+  {
+    "question": "Which planet is known for its red storms?",
+    "answer": "Jupiter"
+  },
+  {
+    "question": "What is the main ingredient in tzatziki?",
+    "answer": "Yogurt"
+  },
+  {
+    "question": "Which river flows through Baghdad?",
+    "answer": "Tigris"
+  },
+  {
+    "question": "Which animal is known for its long beak and colorful feathers?",
+    "answer": "Toucan"
+  },
+  {
+    "question": "What is the capital of Portugal?",
+    "answer": "Lisbon"
+  },
+  {
+    "question": "Which gas is used in scuba tanks?",
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which fruit is known for its sour taste and green color?",
+    "answer": "Lime"
+  },
+  {
+    "question": "What is the largest coral reef in the world?",
+    "answer": "Great Barrier Reef"
+  },
+  {
+    "question": "Which animal is known for its thick fur and lives in cold regions?",
+    "answer": "Yak"
+  },
+  {
+    "question": "What is the capital of Denmark?",
+    "answer": "Copenhagen"
+  },
+  {
+    "question": "Which element is used in nuclear reactors?",
+    "answer": "Uranium"
+  },
+  {
+    "question": "What do you call a baby fox?",
+    "answer": "Kit"
+  },
+  {
+    "question": "Which country is known for the Acropolis?",
+    "answer": "Greece"
+  },
+  {
+    "question": "What is the capital of Kenya?",
+    "answer": "Nairobi"
+  },
+  {
+    "question": "Which animal is known for its long lifespan and lives in the ocean?",
+    "answer": "Bowhead Whale"
+  },
+  {
+    "question": "What is the atomic number of helium?",
+    "answer": "2"
+  },
+  {
+    "question": "Which continent is known for its deserts and pyramids?",
+    "answer": "Africa"
+  },
+  {
+    "question": "What do you call a group of giraffes?",
+    "answer": "Tower"
+  },
+  {
+    "question": "What is the capital of Switzerland?",
+    "answer": "Bern"
+  },
+  {
+    "question": "Which planet is known for its faint rings?",
+    "answer": "Uranus"
+  },
+  {
+    "question": "What is the main ingredient in kimchi?",
+    "answer": "Cabbage"
+  },
+  {
+    "question": "Which river flows through Washington, D.C.?",
+    "answer": "Potomac"
+  },
+  {
+    "question": "Which animal is known for its black spots and lives in trees?",
+    "answer": "Leopard"
+  },
+  {
+    "question": "What is the capital of Finland?",
+    "answer": "Helsinki"
+  },
+  {
+    "question": "Which gas is used in airships?",
+    "answer": "Helium"
+  },
+  {
+    "question": "Which fruit is known for its juicy flesh and single pit?",
+    "answer": "Mango"
+  },
+  {
+    "question": "What is the highest waterfall in the world?",
+    "answer": "Angel Falls"
+  },
+  {
+    "question": "Which animal is known for its black and white fur and lives in mountains?",
+    "answer": "Panda"
+  },
+  {
+    "question": "What is the capital of Belgium?",
+    "answer": "Brussels"
+  },
+  {
+    "question": "Which element is used in light bulbs?",
+    "answer": "Tungsten"
+  },
+  {
+    "question": "What do you call a baby wolf?",
+    "answer": "Pup"
+  },
+  {
+    "question": "Which country is known for the Parthenon?",
+    "answer": "Greece"
+  },
+  {
+    "question": "What is the capital of Austria?",
+    "answer": "Vienna"
+  },
+  {
+    "question": "Which animal is known for its long neck and spots?",
+    "answer": "Giraffe"
+  },
+  {
+    "question": "What is the atomic number of iron?",
+    "answer": "26"
+  },
+  {
+    "question": "Which continent is known for its Andes mountains?",
+    "answer": "South America"
+  },
+  {
+    "question": "What do you call a group of ants?",
+    "answer": "Colony"
+  },
+  {
+    "question": "What is the capital of Ireland?",
+    "answer": "Dublin"
+  },
+  {
+    "question": "Which planet is known for its thick clouds?",
+    "answer": "Venus"
+  },
+  {
+    "question": "What is the main ingredient in falafel?",
+    "answer": "Chickpeas"
+  },
+  {
+    "question": "Which river flows through Vienna?",
+    "answer": "Danube"
+  },
+  {
+    "question": "Which animal is known for its long tail and lives in trees?",
+    "answer": "Squirrel"
+  },
+  {
+    "question": "What is the capital of Poland?",
+    "answer": "Warsaw"
+  },
+  {
+    "question": "Which gas is used in refrigerators?",
+    "answer": "Freon"
+  },
+  {
+    "question": "Which fruit is known for its star shape when cut?",
+    "answer": "Starfruit"
+  },
+  {
+    "question": "What is the largest bay in the world?",
+    "answer": "Bay of Bengal"
+  }
+]
