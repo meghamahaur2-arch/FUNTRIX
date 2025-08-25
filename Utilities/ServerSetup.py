@@ -16,7 +16,6 @@ class Setup(commands.Cog):
     @app_commands.command(name="setup", description="Configure the bot for this server.")
     @app_commands.checks.has_permissions(administrator=True)
     async def setup(self, interaction: discord.Interaction, game_master_role: discord.Role):
-        # Immediately defer the interaction to prevent timeout errors
         await interaction.response.defer(ephemeral=True)
 
         guild_id = interaction.guild.id
@@ -29,10 +28,8 @@ class Setup(commands.Cog):
 
         # Send the final response as a follow-up message
         await interaction.followup.send(
-            f"✅ **Setup Complete!**\n\n"
-            f"**Configuration Details:**\n"
-            f"- **Game Master Role:** `{game_master_role.name}`\n\n"
-            f"Only users with the `{game_master_role.name}` role can now start games."
+            "Make a role with the name \"Host\" **with H in capital letter and assign it to the people who will be hosting games.**"
+            "youre good to go! 🎉",
         )
 
     @setup.error
