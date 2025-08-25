@@ -176,7 +176,6 @@ ruff==0.9.10
 safetensors==0.5.3
 selenium==4.34.2
 sentient-agent-framework==0.2.0
-sentient_web_extract @ file:///D:/Programs/WEBSITE_QNA
 setuptools==80.9.0
 sgmllib3k==1.0.0
 simple-sse-client==0.1.1
