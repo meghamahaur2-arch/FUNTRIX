@@ -4,11 +4,9 @@ import discord
 import random
 import sqlite3
 import json
-import numpy as np
 from discord.ext import commands
-from openai import OpenAI
 from dotenv import load_dotenv
-import wavelink
+
 
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
