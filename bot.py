@@ -2,12 +2,10 @@ import os
 import asyncio
 import discord
 import random
-import sqlite3
 import json
 from discord.ext import commands
-from openai import OpenAI
 from dotenv import load_dotenv
-import wavelink
+
 
 # --- NEW: tiny web server for Render ---
 from flask import Flask
